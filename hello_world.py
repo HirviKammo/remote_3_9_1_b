@@ -1,5 +1,5 @@
 print("Hello world!")
-<<<<<<< HEAD
-=======
+#<<<<<<< HEAD
+#=======
 print("Hello once again")
->>>>>>> tuni392/feature/add-logging
+#>>>>>>> tuni392/feature/add-logging
