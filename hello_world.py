@@ -3,7 +3,7 @@ print("Hello world!")
 #<<<<<<< HEAD
 #<<<<<<< HEAD
 #=======
-print("Hello once again")
+#print("Hello once again")
 #>>>>>>> tuni392/feature/add-logging
 #=======
 print("Hello darkness my old friend")
